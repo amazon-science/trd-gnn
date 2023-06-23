@@ -5,6 +5,8 @@
 Arihant Jain, Gundeep Arora, Anoop Saladi\
 International Machine Learning, Amazon, Bengaluru, India
 
+## Overview
+
 ![Alt Text](images/time-relax.jpg)
 Figure depicts the computational graphs created by different GNN models (D-GNN, UD-GNN and TRD-GNN) for the given directed graph. It showcases how TRD-GNN acknowledges timestamp ordered-edges by adding new signal from v1 (since t1 $<$ t2) and eliminating signal from v3 (since t2 $<$ t3), leading to improved performance.
 
